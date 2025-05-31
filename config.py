@@ -1,0 +1,5 @@
+MODEL_ID = "teknium/OpenHermes-2.5-Mistral-7B"
+DB_PATH = "./db/chroma"
+QUOTE_FILE = "./data/quotes_nain.txt"
+CONV_HISTORY = "./data/conversations.json"
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
